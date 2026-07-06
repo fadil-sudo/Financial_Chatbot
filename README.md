@@ -1,4 +1,4 @@
-Advanced Financial Chatbot Prototype (NLP-Based) - Documentation
+***Advanced Financial Chatbot Prototype (NLP-Based)*** - Documentation
 
 1. How the Chatbot Works
 ------------------------
