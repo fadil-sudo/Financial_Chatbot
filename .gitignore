@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+*.ipynb
+
+# Sensitive data files
+final_financial_analysis.csv
+financial_data.csv
+*.csv
+
+# Environment / secrets
+.env
+*.secret
+secrets.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python virtual env
+venv/
+env/
+
+# IDE
+.vscode/
